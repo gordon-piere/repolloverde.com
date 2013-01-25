@@ -1,0 +1,112 @@
+body{
+font-family: 'Monda', sans-serif;
+text-align: center;
+color:white;
+}
+.titulo{
+	color:black;
+}
+.centrado{
+ margin: 0px auto; 
+}
+.centrado2{
+ margin: 0px auto; 
+ margin-top: 70px;
+}
+.centrado h1{
+  color:black;
+}
+#general{
+  width: 1100px;
+}
+#general2{
+  width: 700px;
+}
+#cleft{
+  width: 250px;
+  margin-left:1%;
+  float:left;
+  background-image:url('http://farm2.staticflickr.com/1372/5159675500_0795e9ba50_z.jpg');
+  height:420px;
+  }
+#cleft2{
+  width: 300px;
+  margin-right:1%;
+  margin-left:1%;
+  float:left;
+  background-image:url('http://farm2.staticflickr.com/1372/5159675500_0795e9ba50_z.jpg');
+  height:420px;
+  margin-top: 100px;
+  }
+#cleft3{
+  width: 250px;
+  margin-right:1%;
+  margin-left:1%;
+
+  float:left;
+  height:420px;
+  }
+
+#cright{
+  margin-right:1%;
+  margin-left:1%;
+
+  width: 250px;
+  float:left;
+  background-image:url('http://farm3.staticflickr.com/2538/4298004524_af7be9c896_z.jpg?zz=1');
+  height:420px;
+  color: white;
+
+  }
+#cright2{
+  width: 250px;
+  margin-left:1%;
+  float:left;
+  height:420px;
+  color: white;
+
+  margin-top: 100px;
+
+  }
+
+.dark1{
+  margin-left:5%;
+  width:90%;
+  background-color:rgba(55,55,55,0.8);
+  }
+
+.dark2{
+  height:100px;
+  margin-left:5%;
+  width:90%;
+  background-color:rgba(55,55,55,0.8);
+  }
+
+.tipo{
+  height:100px;
+  margin-top:66px;
+  width:100%;
+  background-color:rgba(55,55,55,0.7);
+  font-size:30px;
+}
+.precio{
+  font-size:30px;
+  margin-top:-27px;
+}
+.reflection1 { 
+    background-image:url('reflejo2.png');
+    height:100px;
+}
+.reflection2 { 
+    background-image:url('reflejo1.png');
+    height:100px;
+}
+
+} 
+.overlay { position:absolute; top:0px; left:0px; width:78px; height:120px; 
+    background-image: -moz-linear-gradient( center bottom, rgb(255,255,255) 60%, rgba(255,255,255,0) 75%); 
+    background-image:   -o-linear-gradient( rgba(255,255,255,0) 25%, rgb(255,255,255) 40%); 
+    background-image:     -webkit-gradient( linear, left bottom, left top, color-stop(0.60, rgb(255,255,255)), color-stop(0.75, rgba(255,255,255,0))); 
+    filter: progid:DXImageTransform.Microsoft.Gradient( gradientType=0, startColor=0, EndColorStr=#ffffff); 
+} 
+
